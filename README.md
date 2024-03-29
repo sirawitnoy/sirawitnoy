@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 -->
 https://www.youtube.com/watch?v=vvravLxmOzA
 
-<a href="http://www.youtube.com/watch?v=vvravLxmOzA" target="_blank"><img src="[http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://i.ytimg.com/vi/vvravLxmOzA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEax5SeuNbT4d6m12f4q4cOdTE-Q)" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?v=vvravLxmOzA" target="_blank"><img src="https://i.ytimg.com/vi/vvravLxmOzA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEax5SeuNbT4d6m12f4q4cOdTE-Q" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
