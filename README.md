@@ -2,7 +2,7 @@
 ## Hi there 👋 I'm Sirawit Na-ngam
 #### I'm Computor Engineering Student 
 
-<h3 align="center">“I have not failed. I've just found 10,000 ways that won't work.”</h3>
+> <h3 align="center">“I have not failed. I've just found 10,000 ways that won't work.”</h3>
 <h4 align="center">- Thomas A. Edison -</h4>
 
 <div align="center" style="margin-bottom:200px">
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="http://www.youtube.com/watch?v=vvravLxmOzA" target="_blank"><img src="https://i.ytimg.com/vi/vvravLxmOzA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEax5SeuNbT4d6m12f4q4cOdTE-Q" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?v=vvravLxmOzA" target="_blank"><img src="https://i.ytimg.com/vi/vvravLxmOzA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEax5SeuNbT4d6m12f4q4cOdTE-Q" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" target="_blank"/></a>
