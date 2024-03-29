@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sirawit nangam mai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sirawit nangam mai" height="30" width="40" /></a>
+<a href="https://fb.com/SirawitNangamMai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sirawit nangam mai" height="30" width="40" /></a>
 <a href="https://instagram.com/mai._nahaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mai._nahaf" height="30" width="40" /></a>
 </p>
 
